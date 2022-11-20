@@ -10,6 +10,9 @@ iron = "0.5.1"
 mime = "0.2.3"
 router = "0.5.1"
 urlencoded = "0.6.0"
+num = "0.1.27"
+image = "0.13.0"
+crossbeam = "0.2.8"
 
 [[bin]]
 name = "2_2"
@@ -20,5 +23,5 @@ name = "2_4"
 path = "src/2_4.rs"
 
 [[bin]]
-name = "2_5"
-path = "src/2_5.rs"
+name = "2_6"
+path = "src/2_6.rs"
