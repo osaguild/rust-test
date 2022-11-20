@@ -10,3 +10,7 @@ iron = "0.5.1"
 mime = "0.2.3"
 router = "0.5.1"
 urlencoded = "0.6.0"
+
+[[bin]]
+name = "2_2"
+path = "src/2_2.rs"
