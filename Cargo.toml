@@ -14,3 +14,7 @@ urlencoded = "0.6.0"
 [[bin]]
 name = "2_2"
 path = "src/2_2.rs"
+
+[[bin]]
+name = "2_4"
+path = "src/2_4.rs"
